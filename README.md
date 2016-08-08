@@ -59,7 +59,7 @@ sudo gem install -n /usr/local/bin cocoapods
 sudo xcode-select --switch /Applications/Xcode.app
 
 3.5安装：pod setup
-(备注：次步骤是漫长的安装等待，本人安装的2.3.0版本，文件大小782M，
+(备注：此步骤是漫长的安装等待，本人安装的2.3.0版本，文件大小782M，
 检查文件大小命令：cd ~/.cocoapods和du -sh *)
 
 3.6 安装完毕开启愉快的旅程！！！
